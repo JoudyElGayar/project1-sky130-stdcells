@@ -19,14 +19,6 @@ python3 characterize.py \
   [--cells invx1 invx2 ...]
 ```
 
-### Arguments
-
-| Argument | Required | Description |
-|----------|----------|-------------|
-| `--sky130` | Yes | Path to sky130A directory (must contain `libs.ref/sky130_fd_pr/spice/`) |
-| `--workdir` | No | Directory containing `stdcells.spice` and `sky130_params.spice` (default: `../netlists`) |
-| `--cells` | No | Space-separated list of cells to run (default: all 13) |
-
 ### Output
 
 - `results/<cell_name>/` — one `.sp` netlist and `.sp.log` per simulation point
