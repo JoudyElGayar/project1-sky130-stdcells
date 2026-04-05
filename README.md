@@ -1,4 +1,4 @@
-# Project 1 — Standard Cell Library Design and Characterization (SKY130)
+# Project 1 : Standard Cell Library Design and Characterization (SKY130)
 
 **Course:** VLSI Design  
 **Process:** SkyWater SKY130 (180 nm)  
@@ -58,7 +58,7 @@ Drive strengths scale transistor widths linearly (x2 = 2× widths, x4 = 4×, x8 
 - numpy, matplotlib
 - SKY130A PDK installed
 
-### Step 1 — Run characterization
+### Step 1 : Run characterization
 
 ```bash
 cd project1/scripts
@@ -75,7 +75,7 @@ To run a subset only:
 python3 characterize.py --sky130 /path/to/sky130A --cells invx1 invx2
 ```
 
-### Step 2 — Merge results (if run in batches)
+### Step 2 : Merge results (if run in batches)
 
 ```bash
 cd project1
@@ -84,7 +84,7 @@ python3 scripts/merge_results.py
 
 This combines all per-cell `.json` files into the aggregated `results/nldm_tables.json`.
 
-### Step 3 — Generate report assets
+### Step 3 : Generate report assets
 
 ```bash
 cd project1
