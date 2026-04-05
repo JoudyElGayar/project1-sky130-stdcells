@@ -29,9 +29,6 @@ project1/
 │   ├── nldm_report.md        # Full NLDM table printout in markdown format
 │   ├── inv_delay_vs_load.pdf # Plot: delay vs load for inverter family at tin=0.1225ns
 │   ├── rc_vs_spice.pdf       # Plot: RC model vs SPICE comparison for invx1
-│   ├── invx1.json            # Per-cell characterization data (one file per cell)
-│   ├── invx2.json
-│   └── ...                   # (invx4, invx8, nand2x1/2/4, nor2x1/2/4, maj3x1/2/4)
 │
 └── Project1_Report.pdf       # Final report (PDF)
 ```
