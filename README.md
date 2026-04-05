@@ -1,7 +1,7 @@
 # Project 1 : Standard Cell Library Design and Characterization (SKY130)
 
 **Course:** DD2 
-**Instructor:** Dr. Mohamed Shaalan
+        **Instructor:** Dr. Mohamed Shaalan
 
 ---
 
