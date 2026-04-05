@@ -1,8 +1,7 @@
 # Project 1 : Standard Cell Library Design and Characterization (SKY130)
 
-**Course:** VLSI Design  
-**Process:** SkyWater SKY130 (180 nm)  
-**Corner:** TT | **VDD:** 1.8 V | **Temperature:** 25°C
+**Course:** DD2 
+**Instructor:** Dr. Mohamed Shaalan
 
 ---
 
