@@ -2,6 +2,10 @@
 
 **Course:** DD2 
 
+**Process:** SKY130 (180 nm)  
+
+**Corner:** TT | **VDD:** 1.8 V | **Temperature:** 25°C
+
 **Instructor:** Dr. Mohamed Shaalan
 
 ---
