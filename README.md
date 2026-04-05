@@ -53,10 +53,10 @@ Drive strengths scale transistor widths linearly (x2 = 2× widths, x4 = 4×, x8 
 
 ### Requirements
 
-- Python 3.8+
-- ngspice (brew install ngspice on macOS)
-- numpy, matplotlib (`pip install numpy matplotlib`)
-- SKY130A PDK installed (e.g. via volare)
+- Python
+- ngspice 
+- numpy, matplotlib
+- SKY130A PDK installed
 
 ### Step 1 — Run characterization
 
